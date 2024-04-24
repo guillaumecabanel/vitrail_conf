@@ -102,6 +102,13 @@ What's inside? 👨‍💻
 [github.com/kuartz-org/vitrail](https://github.com/kuartz-org/vitrail)
 
 
+## À venir
+
+- page layouts
+- autres composants de base
+- gestion des Design Tokens (primary-color, spacing, etc.)
+- …
+
 
 Real world
 
