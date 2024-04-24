@@ -37,7 +37,6 @@
 ![demo_capture](images/vitrail-demo.png)<!-- .element: height="400" -->
 
 
-
 Header
 
 ```erb[2,4-6]
@@ -89,8 +88,14 @@ Table
 
 
 
-## What's inside? 👨‍💻
+What's inside? 👨‍💻
 
 ![Vitrail on GitHub](images/vitrail-github.png)<!-- .element: height="400" -->
 
 [github.com/kuartz-org/vitrail](https://github.com/kuartz-org/vitrail)
+
+
+
+Real world
+
+![Kàri](images/kari.png)
