@@ -37,9 +37,16 @@
 ![demo_capture](images/vitrail-demo.png)<!-- .element: height="400" -->
 
 
-Header
+### Header
+good ol' ERB with Tailwind CSS
 
-```erb[2,4-6]
+![Before vitrail](images/before.png)<!-- .element: height="400" -->
+
+
+### Header
+_with Vitrail™_
+
+```erb[2,4-5]
 <div class="flex justify-between items-end">
   <%= vt_title { "My app" } %>
   <div>
