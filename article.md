@@ -1,28 +1,34 @@
+> “Where is the HTML?”
+
+— A front-end developer
+
+
+
 # Douleurs 🤕
 
-- Trop d'hétérogénéité dans les composants de nos applications
-
-- Sensations de réinventer la roue à chaque fois
-
-- Besoin de compétences en UI
+<ul style="list-style-type: none">
+  <li class="fragment">❌ Hétérogénéité dans nos applications</li>
+  <li class="fragment">❌ Sensations de réinventer la roue à chaque fois</li>
+  <li class="fragment">❌ Besoins de compétences en UI</li>
+</ul>
 
 
 ![solution](images/solution.png)<!-- .element: height="250" -->
 
-- **Design System** : ensemble de règles et de composants réutilisables
-
-- **Component Library** : implémentation technique du Design System
-
-- **Vitrail** : Gem du Design System sur ViewComponent
+<ul style="list-style-type: none; font-size: 2.25rem">
+  <li class="fragment" style="margin-bottom: 1.5rem;">🎨 <strong>Design System :</strong> ensemble de règles et de composants réutilisables</li>
+  <li class="fragment" style="margin-bottom: 1.5rem;">🔧 <strong>Component Library :</strong> implémentation technique du Design System</li>
+  <li class="fragment" style="margin-bottom: 1.5rem;">✨ <strong>Vitrail :</strong> Gem du Design System sur ViewComponent</li>
+</ul>
 
 
 ## ✨ Avantages ✨
 
-- **Uniformisation**
-
-- **Réutilisation**
-
-- **Facilité d'utilisation**
+<ul style="list-style-type: none">
+  <li class="fragment">✅ Uniformisation</li>
+  <li class="fragment">✅ Réutilisation (DRY)</li>
+  <li class="fragment">✅ Facilité d'utilisation</li>
+</ul>
 
 
 
@@ -80,3 +86,11 @@ Table
   <% end %>
 <% end %>
 ```
+
+
+
+## What's inside? 👨‍💻
+
+![Vitrail on GitHub](images/vitrail-github.png)<!-- .element: height="400" -->
+
+[github.com/kuartz-org/vitrail](https://github.com/kuartz-org/vitrail)

@@ -1,3 +1,5 @@
-> “Where is the HTML?”
+![Vitrail logo](images/vitrail_logo.png)<!-- .element: height="200" -->
 
-— A front-end developer
+## Vitrail
+
+Design system on Rails
