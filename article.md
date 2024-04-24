@@ -99,7 +99,7 @@ What's inside? 👨‍💻
 
 ![Vitrail on GitHub](images/vitrail-github.png)<!-- .element: height="400" -->
 
-[github.com/kuartz-org/vitrail](https://github.com/kuartz-org/vitrail)
+[github.com/kuartz-org/vitrail](https://github.com/kuartz-org/vitrail/tree/v2_beta)
 
 
 ## À venir
